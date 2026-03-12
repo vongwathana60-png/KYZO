@@ -1,0 +1,20 @@
+1.  git init        → create repo
+2.  git clone       → download repo from GitHub
+3.  git status      → check file changes
+4.  git add .       → stage files
+5.  git commit      → save change
+6.  git remote      → connect GitHub repo
+7.  git push        → upload code
+8.  git pull        → download updates
+9.  git fetch       → check remote updates
+10. git branch      → show branches
+11. git checkout    → switch branch
+12. git merge       → combine branches
+13. git log         → show commit history
+14. git diff        → show file changes
+15. git reset       → undo commit
+16. git rm          → remove file from repo
+17. git mv          → rename/move file
+18. git stash       → save work temporarily
+19. git tag         → mark version
+20. git config      → set git username/email
